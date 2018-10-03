@@ -1,0 +1,31 @@
+1	1	"Pilot"	Justin Roiland	Dan Harmon & Justin Roiland	December 2, 2013	1.10
+2	2	"Lawnmower Dog"	John Rice	Ryan Ridley	December 9, 2013	1.51
+3	3	"Anatomy Park"	John Rice	Eric Acosta & Wade Randolph	December 16, 2013	1.30
+4	4	"M. Night Shaym-Aliens!"	Jeff Myers	Tom Kauffman	January 13, 2014	1.32
+5	5	"Meeseeks and Destroy"	Bryan Newton	Ryan Ridley	January 20, 2014	1.61
+6	6	"Rick Potion #9"	Stephen Sandoval	Justin Roiland	January 27, 2014	1.75
+7	7	"Raising Gazorpazorp"	Jeff Myers	Eric Acosta & Wade Randolph	March 10, 2014	1.76
+8	8	"Rixty Minutes"	Bryan Newton	Tom Kauffman & Justin Roiland	March 17, 2014	1.48
+9	9	"Something Ricked This Way Comes"	John Rice	Mike McMahan	March 24, 2014	1.54
+10	10	"Close Rick-counters of the Rick Kind"	Stephen Sandoval	Ryan Ridley	April 7, 2014	1.75
+11	11	"Ricksy Business"	Stephen Sandoval	Ryan Ridley & Tom Kauffman	April 14, 2014	2.13
+12	1	"A Rickle in Time"	Wes Archer	Matt Roller	July 26, 2015	2.12
+13	2	"Mortynight Run"	Dominic Polcino	David Phillips	August 2, 2015	2.19
+14	3	"Auto Erotic Assimilation"	Bryan Newton	Ryan Ridley	August 9, 2015	1.94
+15	4	"Total Rickall"	Juan Meza-León	Mike McMahan	August 16, 2015	1.96
+16	5	"Get Schwifty"	Wes Archer	Tom Kauffman	August 23, 2015	2.12
+17	6	"The Ricks Must Be Crazy"	Dominic Polcino	Dan Guterman	August 30, 2015	1.91
+18	7	"Big Trouble in Little Sanchez"	Bryan Newton	Alex Rubens	September 13, 2015	1.97
+19	8	"Interdimensional Cable 2: Tempting Fate"	Juan Meza-León	Dan Guterman, Ryan Ridley & Justin Roiland	September 20, 2015	1.79
+20	9	"Look Who's Purging Now"	Dominic Polcino	Dan Harmon, Ryan Ridley & Justin Roiland	September 27, 2015	1.89
+21	10	"The Wedding Squanchers"	Wes Archer	Tom Kauffman	October 4, 2015	1.84
+22	1	"The Rickshank Rickdemption"	Juan Meza-León	Mike McMahan	April 1, 2017	0.68
+23	2	"Rickmancing the Stone"	Dominic Polcino	Jane Becker	July 30, 2017	2.86
+24	3	"Pickle Rick"	Anthony Chun	Jessica Gao	August 6, 2017	2.31
+25	4	"Vindicators 3: The Return of Worldender"	Bryan Newton	Sarah Carbiener & Erica Rosbe	August 13, 2017	2.66
+26	5	"The Whirly Dirly Conspiracy"	Juan Meza-León	Ryan Ridley	August 20, 2017	2.29
+27	6	"Rest and Ricklaxation"	Anthony Chun	Tom Kauffman	August 27, 2017	2.47
+28	7	"The Ricklantis Mixup"	Dominic Polcino	Dan Guterman & Ryan Ridley	September 10, 2017	2.38
+29	8	"Morty's Mind Blowers"	Bryan Newton	Mike McMahan, James Siciliano, Ryan Ridley, Dan Guterman, Justin Roiland & Dan Harmon	September 17, 2017	2.51
+30	9	"The ABC's of Beth"	Juan Meza-León	Mike McMahan	September 24, 2017	2.49
+31	10	"The Rickchurian Mortydate"	Anthony Chun	Dan Harmon	October 1, 2017	2.60
