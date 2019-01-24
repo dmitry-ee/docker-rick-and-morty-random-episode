@@ -14,4 +14,23 @@ for i, x in enumerate(eps):
 
 selected_ep = eps[random.randint(0, len(eps)-1)]
 
+print("        ___")
+print("    . -^   `--,")
+print("   /# =========`-_")
+print("  /# (--====___====\\")
+print(" /#   .- --.  . --.|")
+print("/##   |  * ) (   * ),")
+print("|##   \    /\ \   / |  ┌─┐┬ ┬┌─┐┬ ┬  ┌┬┐┌─┐")
+print("|###   ---   \ ---  |  └─┐├─┤│ ││││  │││├┤ ")
+print("|####      ___)    #|  └─┘┴ ┴└─┘└┴┘  ┴ ┴└─┘")
+print("|######           ##|  ┬ ┬┬ ┬┌─┐┌┬┐  ┬ ┬┌─┐┬ ┬  ┌─┐┌─┐┌┬┐")
+print(" \\##### ---------- /   │││├─┤├─┤ │   └┬┘│ ││ │  │ ┬│ │ │ ")
+print("  \\####           (    └┴┘┴ ┴┴ ┴ ┴    ┴ └─┘└─┘  └─┘└─┘ ┴ ")
+print("   `\\###          |")
+print("     \\###         |")
+print("      \\##        |")
+print("       \\###.    .)")
+print("        `======/")
+print("")
+
 print("Selected Episode: s%se%s -- %s" % ( selected_ep["season"], selected_ep["episode_in_season"], selected_ep["title"] ))
