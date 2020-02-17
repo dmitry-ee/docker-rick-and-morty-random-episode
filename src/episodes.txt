@@ -29,3 +29,8 @@
 29	8	"Morty's Mind Blowers"	Bryan Newton	Mike McMahan, James Siciliano, Ryan Ridley, Dan Guterman, Justin Roiland & Dan Harmon	September 17, 2017	2.51
 30	9	"The ABC's of Beth"	Juan Meza-León	Mike McMahan	September 24, 2017	2.49
 31	10	"The Rickchurian Mortydate"	Anthony Chun	Dan Harmon	October 1, 2017	2.60
+32	1	"Edge of Tomorty: Rick Die Rickpeat"	Erica Hayes	Mike McMahan	November 10, 2019	2.33
+33	2	"The Old Man and the Seat"	Jacob Hair	Michael Waldron	November 17, 2019	1.67
+34	3	"One Crew over the Crewcoo's Morty"	Bryan Newton	Caitie Delaney	November 24, 2019	1.61
+35	4	"Claw and Hoarder: Special Ricktim's Morty"	Anthony Chun	Jeff Loveness	December 8, 2019	1.63
+36	5	"Rattlestar Ricklactica"	Jacob Hair	James Siciliano	December 15, 2019	1.32
