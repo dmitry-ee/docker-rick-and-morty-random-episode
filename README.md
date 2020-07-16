@@ -8,6 +8,13 @@ Tired from obvious episode order?
 ## Usage
 ```bash
 $ docker run --rm dmi7ry/rick-and-morty-random-episode:5.0.0
+```
+or
+```bash
+$ docker run --rm dmi7ry/rick-and-morty-random-episode:5.0.0 --offline true
+```
+
+```
         ___
     . -^   `--,
    /# =========`-_
