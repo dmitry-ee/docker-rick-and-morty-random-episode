@@ -5,4 +5,4 @@ WORKDIR ${APP_DIR}
 ENV     PATH=.:$PATH
 COPY    ./src ${APP_DIR}
 
-CMD     ["python", "."]
+ENTRYPOINT ["python", "."]
