@@ -1,4 +1,6 @@
 # Rick and Morty episode Randomizer
+[![image version](https://img.shields.io/docker/v/dmi7ry/rick-and-morty-random-episode?sort=semver)](https://hub.docker.com/r/dmi7ry/time-exporter)
+[![Image Pulls](https://img.shields.io/docker/pulls/dmi7ry/rick-and-morty-random-episode.svg)](https://hub.docker.com/r/dmi7ry/time-exporter)
 
 Already watched whole series?
 Tired from obvious episode order?
